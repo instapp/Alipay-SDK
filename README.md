@@ -1,11 +1,14 @@
 # Alipay-SDK
 
-## 介绍
+[![Version](https://badge.fury.io/co/Alipay-SDK.svg)](https://cocoapods.org/pods/Alipay-SDK)
 
-AliPay SDK for iOS
+## Intro
+
+AliPay SDK for iOS `15.4.1`
 
 与支付宝官方同步更新，最后更新于 2017-07-26. ([源网页][1])
 
+---
 
 ## 安装指南
 
