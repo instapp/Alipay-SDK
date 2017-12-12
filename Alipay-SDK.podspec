@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "Alipay-SDK"
-  s.version      = "15.4.1"
-  s.summary      = "Alipay SDK. (Last updated @ 2017-07-26)"
+  s.version      = "15.5.0"
+  s.summary      = "Alipay SDK. (Last updated @ 2017-10-24)"
   s.homepage     = "https://docs.open.alipay.com"
   s.license      = "MIT"
   s.author       = "Alipay"
