@@ -4,7 +4,7 @@
 
 ## Intro
 
-AliPay SDK for iOS `15.5.0`
+Alipay SDK for iOS `15.5.0`
 
 与支付宝官方同步更新，最后更新于 2017-10-24. ([源网页][1])
 
@@ -14,7 +14,7 @@ AliPay SDK for iOS `15.5.0`
 在项目根目录下的 `Podfile` 文件中添加
 
 ```
-pod 'AliPay-SDK'
+pod 'Alipay-SDK'
 ```
 
 然后在根目录执行 `pod install` 命令，执行成功 SDK 集成完毕
